@@ -1,0 +1,25 @@
+Fm Value: 41.7927
+Number of nodes: 23
+Node #1 has function mean of numbers and child nodes: 7 
+Node #2 has function sum of sin(x) in absolute value reduced at less than 1 and child nodes: 7 
+Node #3 has function substraction of cos(x) in absolute value reduced at less than 1 and child nodes: 7 
+Node #4 has function min of numbers and child nodes: 7 
+Node #5 has function min of numbers and child nodes: 7 
+Node #6 has function mean of numbers and child nodes: 7 
+Node #7 has function sum of sqrt(abs(x * x - 4 * x)) educed at less than 1 and child nodes: 8 
+Node #8 has function sum of sqrt(abs(x * x - 4 * x)) educed at less than 1 and child nodes: 11 10 12 9 
+Node #9 has function sum of sqrt(abs(x * x - 4 * x)) educed at less than 1 and child nodes: 21 17 14 20 18 16 15 19 
+Node #10 has function sum of numbers % 17 divided by 100 and child nodes: 14 
+Node #11 has function max of numbers and child nodes: 18 21 20 14 15 17 16 19 22 
+Node #12 has function min of numbers and child nodes: 20 19 17 16 15 22 18 21 14 
+Node #13 has function max of numbers and child nodes: 15 14 16 
+Node #14 is a leaf with no function.
+Node #15 is a leaf with no function.
+Node #16 is a leaf with no function.
+Node #17 is a leaf with no function.
+Node #18 is a leaf with no function.
+Node #19 is a leaf with no function.
+Node #20 is a leaf with no function.
+Node #21 is a leaf with no function.
+Node #22 is a leaf with no function.
+Node #23 is a leaf with no function.

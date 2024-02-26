@@ -1,0 +1,18 @@
+Fm Value: 38.0813
+Number of nodes: 16
+Node #1 has function sum of sqrt(abs(x * x - 4 * x)) educed at less than 1 and child nodes: 5 3 4 
+Node #2 has function min of numbers and child nodes: 3 
+Node #3 has function max of numbers and child nodes: 7 8 
+Node #4 has function sum of numbers |x - 0.33| reduced at less than 1 and child nodes: 9 7 11 8 10 15 12 13 14 
+Node #5 has function sum of numbers % 17 divided by 100 and child nodes: 12 9 7 10 11 8 
+Node #6 has function sum of sin(x) in absolute value reduced at less than 1 and child nodes: 15 11 14 10 7 13 16 9 12 8 
+Node #7 is a leaf with no function.
+Node #8 is a leaf with no function.
+Node #9 is a leaf with no function.
+Node #10 is a leaf with no function.
+Node #11 is a leaf with no function.
+Node #12 is a leaf with no function.
+Node #13 is a leaf with no function.
+Node #14 is a leaf with no function.
+Node #15 is a leaf with no function.
+Node #16 is a leaf with no function.

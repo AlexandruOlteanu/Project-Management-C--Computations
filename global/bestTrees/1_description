@@ -1,0 +1,32 @@
+Fm Value: 68.9188
+Number of nodes: 30
+Node #1 has function sum of sqrt(abs(x * x - 4 * x)) reduced at less than 1 and child nodes: 3 5 2 4 
+Node #2 has function sum of numbers % 17 divided by 100 and child nodes: 8 
+Node #3 has function sum of sqrt(abs(x * x - 4 * x)) reduced at less than 1 and child nodes: 8 9 10 11 
+Node #4 has function mean of numbers and child nodes: 11 8 10 9 
+Node #5 has function max of numbers and child nodes: 8 9 10 
+Node #6 has function sum of sqrt(abs(x * x - 4 * x)) reduced at less than 1 and child nodes: 8 
+Node #7 has function min of numbers and child nodes: 8 
+Node #8 has function sum of sin(x) in absolute value reduced at less than 1 and child nodes: 15 12 13 14 
+Node #9 has function sum of numbers |x - 0.33| reduced at less than 1 and child nodes: 13 14 12 
+Node #10 has function sum of x^3 reduced at less than 1 and child nodes: 15 14 13 12 
+Node #11 has function mean of numbers and child nodes: 14 12 13 
+Node #12 has function max of numbers and child nodes: 21 23 22 18 16 20 17 25 24 26 27 19 
+Node #13 has function min of numbers and child nodes: 20 27 22 17 19 25 28 26 16 23 18 24 21 
+Node #14 has function sum of sin(x) in absolute value reduced at less than 1 and child nodes: 19 17 16 18 
+Node #15 has function geometric mean of numbers and child nodes: 16 20 19 17 18 
+Node #16 is a leaf with no function.
+Node #17 is a leaf with no function.
+Node #18 is a leaf with no function.
+Node #19 is a leaf with no function.
+Node #20 is a leaf with no function.
+Node #21 is a leaf with no function.
+Node #22 is a leaf with no function.
+Node #23 is a leaf with no function.
+Node #24 is a leaf with no function.
+Node #25 is a leaf with no function.
+Node #26 is a leaf with no function.
+Node #27 is a leaf with no function.
+Node #28 is a leaf with no function.
+Node #29 is a leaf with no function.
+Node #30 is a leaf with no function.

@@ -1,0 +1,23 @@
+Fm Value: 68.5355
+Number of nodes: 21
+Node #1 has function sum of numbers % 17 divided by 100 and child nodes: 6 
+Node #2 has function sum of x^3 reduced at less than 1 and child nodes: 6 
+Node #3 has function sum of x^3 reduced at less than 1 and child nodes: 6 
+Node #4 has function max of numbers and child nodes: 6 
+Node #5 has function max of numbers and child nodes: 6 
+Node #6 has function sum of x^3 reduced at less than 1 and child nodes: 8 7 
+Node #7 is a leaf with no function.
+Node #8 is a leaf with no function.
+Node #9 is a leaf with no function.
+Node #10 is a leaf with no function.
+Node #11 is a leaf with no function.
+Node #12 is a leaf with no function.
+Node #13 is a leaf with no function.
+Node #14 is a leaf with no function.
+Node #15 is a leaf with no function.
+Node #16 is a leaf with no function.
+Node #17 is a leaf with no function.
+Node #18 is a leaf with no function.
+Node #19 is a leaf with no function.
+Node #20 is a leaf with no function.
+Node #21 is a leaf with no function.
